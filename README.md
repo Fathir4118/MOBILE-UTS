@@ -22,5 +22,5 @@ Kelas  : TI.24.A.4
 ![img](https://github.com/Fathir4118/MOBILE-UTS/blob/main/Gambar/Halaman%20pembuka%20saat%20aplikasi%20pertama%20kali%20dijalankan._20251113_190920_0000.png) 
 ![img](https://github.com/Fathir4118/MOBILE-UTS/blob/main/Gambar/Halaman%20pembuka%20saat%20aplikasi%20pertama%20kali%20dijalankan._20251113_190920_0001.png)<br>
 
-Untuk tampilan UX dan penjelasan lebih lengkap saya jelaskan dalam link youtube berikut ini :<br>
+Untuk tampilan UX ada di link youtube berikut ini :<br>
 https://youtube.com/shorts/rEERmB4Tr6I?si=b9Lj23qa671jvNaR
